@@ -1,4 +1,5 @@
 **Project Overview**
+
 **Project:** Diamond One-Bedroom Apartment - Data Analysis & Interactive Dashboard
 **Objective:** To analyze the client's booking data and provide insights on revenue per month, while considering adjustments in pricing and missing data for certain months.
 
