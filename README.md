@@ -1,21 +1,33 @@
 **Project Overview**
 
 **Project:** Diamond One-Bedroom Apartment - Data Analysis & Interactive Dashboard
+
 **Objective:** To analyze the client's booking data and provide insights on revenue per month, while considering adjustments in pricing and missing data for certain months.
 
 **Client Requirements**
+
 The client had the following requirements:
+
 Missing Data: Data for January, February, March, and April was missing. It was specified that January and February are low-paying months, while March and April are high-paying months.
+
 Price Adjustment: Increase the price by 10 EUR per night for each booking.
+
 Revenue Analysis: Display monthly revenue.
 
 **Data Analysis and Adjustments**
+
 Customer Name (e.g., Boba 3, where 3 represents the number of nights stayed).
+
 Booking Source.
+
 Provision Fee.
+
 Cleaning Fee.
+
 Price per Night.
+
 Revenue per Night (calculated after adjusting for the 10 EUR increase).
+
 Price Adjustment: A 10 EUR increase was applied to the price per night for each booking.
 
 **Dashboard Features**
